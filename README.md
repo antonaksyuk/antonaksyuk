@@ -2,7 +2,7 @@
 
 I'm **Anton Aksiuk**, a student **Frontend Developer** with a passion for creating clean and functional user interfaces. 🌟
 
-![Anton Aksiuk](./img/photo.JPG)
+<img src="./img/photo.JPG" alt="Anton Photo" width="50%">
 
 ### 🛠️ Languages & Skills
 
