@@ -2,12 +2,11 @@
 
 ## I'm a student **Frontend Developer** with a passion for creating clean and functional user interfaces. 🌟
 
-![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonaksyuk&layout=compact&hide=html,css&langs_count=10&theme=dark)
-
 ## 🛠️ Languages & Skills
 
 - **Programming:** HTML, CSS, JavaScript (and growing 🚀)
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonaksyuk&show_icons=true&theme=)
+  
+![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonaksyuk&layout=compact&hide=html,css&langs_count=10&theme=dark)
 
 - **Languages I Speak:** Ukrainian, English, French, Russian
 
