@@ -4,11 +4,11 @@
 
 ![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonaksyuk&layout=compact&hide=html,css&langs_count=10&theme=dark)
 
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonaksyuk&show_icons=true&theme=)
-
 ## 🛠️ Languages & Skills
 
 - **Programming:** HTML, CSS, JavaScript (and growing 🚀)
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonaksyuk&show_icons=true&theme=)
+
 - **Languages I Speak:** Ukrainian, English, French, Russian
 
 ## 🌍 About Me
@@ -17,3 +17,5 @@
 - 💡 **Learning:** Always exploring the latest frontend technologies and tools.
 
 Let's connect and build something amazing together! 🤝
+
+To be continued...
