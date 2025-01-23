@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+👋I'm+Anton+Aksiuk!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+👋I'm+Anton!)](https://git.io/typing-svg)
 
 ## I'm a student **Frontend Developer** with a passion for creating clean and functional user interfaces. 🌟
 
